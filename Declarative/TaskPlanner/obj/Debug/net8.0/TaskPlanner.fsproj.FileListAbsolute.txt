@@ -1,0 +1,90 @@
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\TaskPlanner.exe
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\TaskPlanner.deps.json
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\TaskPlanner.runtimeconfig.json
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\TaskPlanner.pdb
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\FSharp.Core.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.fsproj.AssemblyReference.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.AssemblyInfoInputs.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.AssemblyInfo.fs
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.fsproj.CoreCompileInputs.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlan.78048D2D.Up2Date
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\refint\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.pdb
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\TaskPlanner.genruntimeconfig.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\obj\Debug\net8.0\ref\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code\TaskPlanner\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\TaskPlanner.exe
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\TaskPlanner.deps.json
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\TaskPlanner.runtimeconfig.json
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\TaskPlanner.pdb
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\FSharp.Core.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.fsproj.AssemblyReference.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.AssemblyInfoInputs.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.AssemblyInfo.fs
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.fsproj.CoreCompileInputs.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlan.78048D2D.Up2Date
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\refint\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.pdb
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\TaskPlanner.genruntimeconfig.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Code - Copy\TaskPlanner\obj\Debug\net8.0\ref\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\TaskPlanner.exe
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\TaskPlanner.deps.json
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\TaskPlanner.runtimeconfig.json
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\TaskPlanner.pdb
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\FSharp.Core.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.fsproj.AssemblyReference.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.AssemblyInfoInputs.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.AssemblyInfo.fs
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.fsproj.CoreCompileInputs.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlan.78048D2D.Up2Date
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\refint\TaskPlanner.dll
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.pdb
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\TaskPlanner.genruntimeconfig.cache
+D:\19B2\Computer Science\4th Year\1st Sememster\4- Concepts\Task\Declarative\TaskPlanner\obj\Debug\net8.0\ref\TaskPlanner.dll
