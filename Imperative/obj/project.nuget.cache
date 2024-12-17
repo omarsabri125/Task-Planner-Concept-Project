@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7j7W/u1CmDLZ3w0tMhuk4mqzFTacPSlx2g19yqrnZEbZmVjkRjx3OtrH5dJrJXF3W/2Lxi6KZI3fWxNcSZ4VhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omar\\Imperative\\Imperative.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omar\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
